@@ -26,4 +26,4 @@
 [https://react-acupuncture.com/](https://react-acupuncture.com/)
 
 ## Author
-+ MewW6m ([https://github.com/MewW6m/](https://github.com/MewW6m/))
+MewW6m ([https://github.com/MewW6m/](https://github.com/MewW6m/))
