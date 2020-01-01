@@ -20,26 +20,10 @@
 |2|環境構築|2週間|予算の範囲内でサーバー、ドメインの選定、契約と初期設定。WordPressの導入。デザインテンプレートのインストール|
 |3|カスタマイズ|2ヵ月|クライアント側の要望通りに、デザインテンプレートで作ったページに対してデザインの微修正、GoogleCalendar等のツールやSNSボタンの配置、新たなページの追加を行いました。|
 |4|SEO対策|1ヵ月|検索サイトにサイトがヒットするように設定を施しました。また、上位とまではいかないですが、最低限引っかかるように工夫しました。|
-|5|運用|||
-
-
+|5|運用|1年以上|**|
 
 ## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
+[https://react-acupuncture.com/](https://react-acupuncture.com/)
 
 ## Author
 + MewW6m ([https://github.com/MewW6m/](https://github.com/MewW6m/))
-
-## LICENCE
-##### Copyright (c) 2016 Yoshihiro Furudate
-##### Released under the MIT license
-##### http://opensource.org/licenses/mit-license.php
